@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="hello_message">नमस्ते</string>
+    <string name="ButtonText">मैं एक बटन हूँ</string>
+    <string name="text">मेरे जीयूआई को देखो!</string>
+    <string name="Button">यहाँ क्लिक करें</string>
+    <string name="CheckBox">इसकी जांच करें!</string>
+    <string name="Switch">चालू करना / बंद करना</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="hello_message">Hello World!</string>
+    <string name="ButtonText">I\'m a button</string>
+    <string name="text">Look At my GUI!</string>
+    <string name="Button">CLICK HERE</string>
+    <string name="CheckBox">Check this out!</string>
+    <string name="Switch">Switch on/off</string>
+</resources>
